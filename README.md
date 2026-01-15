@@ -5,16 +5,16 @@
 <img width="623" height="281" alt="image" src="https://github.com/user-attachments/assets/24464f8b-afa7-4070-9a93-c727f5629ed1" />
 
 
-The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
+The project involves the creation of an e-learning website using HTML, CSS,  and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
 
 
 ## Introduction
 
-Secret Coder is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
+Secret Coder is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS,  and JavaScript to create an interactive and visually appealing learning experience.
 
 ## Features
 
-- Responsive design using Bootstrap 5.
+.
 - Structured course catalog with detailed descriptions.
 - Interactive lessons.
 - User can register and login.
@@ -44,7 +44,6 @@ Before you begin, ensure you have the following prerequisites:
 
 - HTML
 - CSS
-- Bootstrap 5
 - JavaScript
 
 📱 Moreover, I've ensured that the website is fully responsive on all screens, making it accessible and user-friendly across various devices. 📱💡
