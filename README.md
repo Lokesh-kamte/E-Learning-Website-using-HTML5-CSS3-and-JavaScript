@@ -1,8 +1,9 @@
 # E-Learning-Website-using-HTML5-CSS3-and-JavaScript
 
-# E-Learning Website using HTML5, CSS3, Bootstrap5 and JavaScript 
 
-![E-Learning Website](preview.jpg)
+
+<img width="623" height="281" alt="image" src="https://github.com/user-attachments/assets/24464f8b-afa7-4070-9a93-c727f5629ed1" />
+
 
 The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
 
@@ -34,7 +35,7 @@ Before you begin, ensure you have the following prerequisites:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/keerti-1924/E-Learning-Website-HTML-CSS.git
+  git clone https://github.com/Lokesh-kamte/E-Learning-Website-using-HTML5-CSS3-and-JavaScript.
 
 2. Open the project in your preferred text editor.
 3. Launch the `index.html` file in a web browser.
